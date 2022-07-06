@@ -7,12 +7,11 @@
 # -*- coding: utf-8 -*-
 
 class SoftwareEngineer:
-
     def __init__(self):
         self.name = "Khai V.(Jason) Nguyen"
         self.role = "Software Engineer"
         self.language_spoken = ["vn_VN", "en_US"]
-
+        
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
